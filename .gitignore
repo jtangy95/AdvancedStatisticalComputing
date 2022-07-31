@@ -1,0 +1,25 @@
+# Cpp Compiled source #
+###################
+*.o
+
+# byproducts of jupyter notebook #
+###################
+*.ipynb_checkpoints
+
+# byproducts of building latex pdf files #
+######################
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.log
+*.gz
+*.bbl
+*.blg
+*.bcf
+*.xml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
